@@ -127,11 +127,6 @@ a.link:hover {
 /* Hero Area */
 .header-hero {
   padding: 0;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-image: url(../images/Hero-bg.png);
-  /* background-color: rgb(252, 222, 222); */
 }
 .header-hero_content {
   padding: 170px 0;
